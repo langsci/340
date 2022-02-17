@@ -1729,6 +1729,7 @@ Storage and cataloguing done by \storageinstitution\\[3ex]
 	pdfkeywords={},
 	pdfpagelayout=TwoPageRight,   % first page is separate
 	hyperfootnotes=false,
+	pdfborder = {0 0 0}
 	%ps2pdf=true
 	]{hyperref}
 
